@@ -3,7 +3,7 @@
 """
 Created on Mon Jan  6 12:54:07 2025
 
-@author: dami
+@author: Tayyib Salawu
 """
 import numpy as np
 import matplotlib.pyplot as plt
